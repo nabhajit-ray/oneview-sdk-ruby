@@ -1,4 +1,4 @@
-# HPE OneView SDK for Ruby1
+# HPE OneView SDK for Ruby12
 
 ## Build Status 
 
